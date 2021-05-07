@@ -1,0 +1,13 @@
+.card-body{
+    background-color:#e9ebef;
+    margin-left: 15px;
+    margin-right: 15px;
+    border: 1px solid #ddd;
+}
+.input{
+    height: 30px;
+    border-radius: 5px;
+}
+.form-select{
+    margin-top: 10px;
+}
